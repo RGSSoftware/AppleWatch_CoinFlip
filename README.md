@@ -5,5 +5,7 @@ Coin tossing is a simple and unbiased way of settling a dispute or deciding betw
  - Developed with Swift
  - Ready for 38mm and 42mm screens
  
+ ![screenshot2small](https://cloud.githubusercontent.com/assets/4758815/9972638/236d79de-5e2c-11e5-9b01-f893d11f221a.jpg)
+ 
 
 
